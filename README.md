@@ -1,2 +1,2 @@
 # gongkang
-test수정1
+test수정jr
